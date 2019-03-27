@@ -1,4 +1,10 @@
-## Unreleased (2019-03-12)
+## Unreleased (2019-03-27)
+
+## <small>0.3.7 (2019-03-27)</small>
+
+- 0.3.7 ([cbdb982](https://github.com/evenchange4/react-intl.macro/commit/cbdb982))
+- Adds logic to getMessage method to collect the properties that we care about in the case that object ([1496ad8](https://github.com/evenchange4/react-intl.macro/commit/1496ad8))
+- docs(CHANGELOG): release 0.3.6 ([d333d00](https://github.com/evenchange4/react-intl.macro/commit/d333d00))
 
 ## <small>0.3.6 (2019-03-12)</small>
 
