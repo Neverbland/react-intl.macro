@@ -1,5 +1,5 @@
 {
-  "name": "react-intl.macro",
+  "name": "@neverbland/react-intl.macro",
   "version": "0.3.6",
   "main": "lib/index.js",
   "module": "es/index.js",
