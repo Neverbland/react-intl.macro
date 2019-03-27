@@ -83,12 +83,12 @@
   "author": "Michael Hsu <evenchange4@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/evenchange4/react-intl.macro/issues",
-    "email": "evenchange4@gmail.com"
+    "url": "https://github.com/neverbland/react-intl.macro/issues",
+    "email": "ops@evisua.com"
   },
-  "homepage": "https://github.com/evenchange4/react-intl.macro#readme",
+  "homepage": "https://github.com/neverbland/react-intl.macro#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/evenchange4/react-intl.macro.git"
+    "url": "https://github.com/neverbland/react-intl.macro.git"
   }
 }

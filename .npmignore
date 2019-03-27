@@ -1,0 +1,21 @@
+# /coverage
+# /es
+# /lib
+# /node_modules
+# npm-debug.log*
+
+# CHANGELOG.md
+# LICENSE
+# README.md
+babel-plugin-macros.config.js
+coverage
+# es
+flow-typed
+# lib
+node_modules
+package-lock.json
+# package.json
+renovate.json
+setupTests.js
+src
+yarn.lock
